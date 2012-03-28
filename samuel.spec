@@ -62,8 +62,8 @@ EOF
 %doc LICENSE README
 %{_bindir}/%{name}
 %{_datadir}/%{name}
-%{python_sitelib}/%{name}
-%{python_sitelib}/%{name}*.egg-info
+%{py_platsitedir}/%{name}
+%{py_platsitedir}/%{name}*.egg-info
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/%{name}.png
 %{_iconsdir}/hicolor/*/apps/%{name}.png
