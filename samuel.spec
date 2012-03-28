@@ -6,7 +6,7 @@
 
 Name:		samuel
 Version:	0.1.8
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	A Draughts Program
 Group:		Games/Boards
 License:	GPLv3+
