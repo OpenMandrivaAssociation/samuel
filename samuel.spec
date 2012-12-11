@@ -68,3 +68,11 @@ EOF
 %{_datadir}/pixmaps/%{name}.png
 %{_iconsdir}/hicolor/*/apps/%{name}.png
 
+
+
+%changelog
+* Wed Mar 28 2012 Andrey Bondrov <abondrov@mandriva.org> 0.1.8-2mdv2011.0
++ Revision: 787922
+- Bump release
+- imported package samuel
+
