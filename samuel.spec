@@ -10,7 +10,7 @@ Release:	3
 Summary:	A Draughts Program
 Group:		Games/Boards
 License:	GPLv3+
-URL:		http://www.johncheetham.com/projects/samuel/
+URL:		https://www.johncheetham.com/projects/samuel/
 Source:		http://www.johncheetham.com/projects/samuel/%{name}-%{version}.tar.gz
 BuildRequires:	imagemagick
 BuildRequires:	python-devel
